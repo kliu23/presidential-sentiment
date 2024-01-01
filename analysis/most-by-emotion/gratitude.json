@@ -1,0 +1,182 @@
+[
+    {
+        "president": "Donald Trump",
+        "ratio": 0.0425
+    },
+    {
+        "president": "Bill Clinton",
+        "ratio": 0.0343
+    },
+    {
+        "president": "George W. Bush",
+        "ratio": 0.0339
+    },
+    {
+        "president": "John Adams",
+        "ratio": 0.024
+    },
+    {
+        "president": "Joe Biden",
+        "ratio": 0.0214
+    },
+    {
+        "president": "Barack Obama",
+        "ratio": 0.0199
+    },
+    {
+        "president": "George H. W. Bush",
+        "ratio": 0.0194
+    },
+    {
+        "president": "Ronald Reagan",
+        "ratio": 0.0183
+    },
+    {
+        "president": "Gerald Ford",
+        "ratio": 0.017
+    },
+    {
+        "president": "Jimmy Carter",
+        "ratio": 0.0151
+    },
+    {
+        "president": "James Madison",
+        "ratio": 0.0138
+    },
+    {
+        "president": "George Washington",
+        "ratio": 0.0126
+    },
+    {
+        "president": "Thomas Jefferson",
+        "ratio": 0.0116
+    },
+    {
+        "president": "John F. Kennedy",
+        "ratio": 0.0112
+    },
+    {
+        "president": "Richard M. Nixon",
+        "ratio": 0.0105
+    },
+    {
+        "president": "Harry S. Truman",
+        "ratio": 0.0104
+    },
+    {
+        "president": "Lyndon B. Johnson",
+        "ratio": 0.0099
+    },
+    {
+        "president": "Zachary Taylor",
+        "ratio": 0.0091
+    },
+    {
+        "president": "Andrew Jackson",
+        "ratio": 0.0085
+    },
+    {
+        "president": "James A. Garfield",
+        "ratio": 0.0085
+    },
+    {
+        "president": "Millard Fillmore",
+        "ratio": 0.0076
+    },
+    {
+        "president": "Warren G. Harding",
+        "ratio": 0.0074
+    },
+    {
+        "president": "John Quincy Adams",
+        "ratio": 0.0073
+    },
+    {
+        "president": "Dwight D. Eisenhower",
+        "ratio": 0.0069
+    },
+    {
+        "president": "Ulysses S. Grant",
+        "ratio": 0.006
+    },
+    {
+        "president": "Woodrow Wilson",
+        "ratio": 0.006
+    },
+    {
+        "president": "William McKinley",
+        "ratio": 0.0057
+    },
+    {
+        "president": "James Monroe",
+        "ratio": 0.0055
+    },
+    {
+        "president": "James Buchanan",
+        "ratio": 0.0038
+    },
+    {
+        "president": "Martin Van Buren",
+        "ratio": 0.0037
+    },
+    {
+        "president": "Franklin D. Roosevelt",
+        "ratio": 0.0036
+    },
+    {
+        "president": "James K. Polk",
+        "ratio": 0.0032
+    },
+    {
+        "president": "John Tyler",
+        "ratio": 0.0032
+    },
+    {
+        "president": "Chester A. Arthur",
+        "ratio": 0.0031
+    },
+    {
+        "president": "Franklin Pierce",
+        "ratio": 0.0028
+    },
+    {
+        "president": "Grover Cleveland",
+        "ratio": 0.0028
+    },
+    {
+        "president": "Rutherford B. Hayes",
+        "ratio": 0.0027
+    },
+    {
+        "president": "Andrew Johnson",
+        "ratio": 0.0026
+    },
+    {
+        "president": "Abraham Lincoln",
+        "ratio": 0.0025
+    },
+    {
+        "president": "Theodore Roosevelt",
+        "ratio": 0.0023
+    },
+    {
+        "president": "Benjamin Harrison",
+        "ratio": 0.0023
+    },
+    {
+        "president": "Herbert Hoover",
+        "ratio": 0.0018
+    },
+    {
+        "president": "William Taft",
+        "ratio": 0.0015
+    },
+    {
+        "president": "Calvin Coolidge",
+        "ratio": 0.0012
+    },
+    {
+        "president": "William Harrison",
+        "ratio": 0.0
+    }
+]
